@@ -132,7 +132,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'Click and see Megick:',
+              'Click and :',
               style: TextStyle(color: Colors.green),
             ),
             Text(
